@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaprojetfinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaprojetfinal_jar</output-path>
+    <root id="archive" name="javaprojetfinal.jar">
+      <element id="module-output" name="javaprojetfinal" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libraries/rs2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
